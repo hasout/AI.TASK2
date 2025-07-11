@@ -1,3 +1,4 @@
+
 # Face Recognition using OpenCV
 
 ## Description
@@ -18,3 +19,23 @@ This project uses OpenCV and face_recognition libraries to detect and recognize 
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+1. Add known faces in the `known_faces/` folder.
+2. Rename images as `name.jpg`.
+3. Run the program:
+
+```bash
+python face_recog.py
+```
+
+4. Press `Q` to quit.
+
+## Sample Output
+
+![demo](demo.png)
+
+## Notes
+- You can add more images for better recognition accuracy.
+- Make sure lighting is good when using webcam.
