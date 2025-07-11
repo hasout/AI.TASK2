@@ -32,9 +32,6 @@ python face_recog.py
 
 4. Press `Q` to quit.
 
-## Sample Output
-
-![demo](demo.png)
 
 ## Notes
 - You can add more images for better recognition accuracy.
